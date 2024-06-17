@@ -1,8 +1,8 @@
 ### *Case study : Banking Operations*
 ***Develop a banking transaction application.***
 *The application should consist of the following details:*
-1.       It should have unique number and store information about its account holder – First name, last name and age.
-2.       It should store information about the balance of the account, the interest of the account and the type of the interest (complex and simple year interest).
+* 1- It should have unique number and store information about its account holder – First name, last name and age.
+* 2- It should store information about the balance of the account, the interest of the account and the type of the interest (complex and simple year interest).
 3.       It should prompt the user for the needed information and after validation it should create a new bank account.
 4.       It should support add, withdraw and display account operations.
 5.       It should maintain a minimum balance.
